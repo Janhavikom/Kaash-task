@@ -1,6 +1,6 @@
 # Kaash-task
-Technologies used - Html, css, Bootstrap, Javascript
-Components:
+Technologies used - Html, css, Bootstrap, Javascript </br>
+Components:</br>
 1.Header
 --> Contains a sticky menu bar made using javascript
 -->Functionality to change background color after scrolling (javascript)
